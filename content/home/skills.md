@@ -15,22 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Quantitative Methods"
+  description = ""  
+
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Qualitative Methods"
+  description = "" 
+
+[[feature]]
+  icon = "sync-alt"
+  icon_pack = "fas"
+  name = "Mixed Methods"
+  description = "" 
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "file-alt"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "NVivo"
+  description = "" 
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "layer-group"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Geographic Information Systems"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
