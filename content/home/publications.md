@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Please [get in touch] (/contact.) if you have trouble accessing any of my work!
+Please get in touch if you have trouble accessing any of my work!
 {{% /callout %}}
