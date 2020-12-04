@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Connecting Evidence-Based Policing and Cybercrime"
 authors:
 - admin
-- Robert Ford
+- Jin R. Lee
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- ""
+- ""
+date: "2020-03-02T00:00:00Z"
+doi: "https://doi.org/10.1108/PIJPSM-07-2019-0107"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,22 +19,30 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Policing: An International Journal, 43*(1), 198-211"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: **Purpose –** This paper explores the various challenges associated with policing cybercrime, arguing that a failure to improve law enforcement responses to cybercrime may negatively impact their institutional legitimacy as reliable first responders. Further, the paper makes preliminary links between cybercrime and the paradigm of evidence-based policing (EBP), providing suggestions on how the paradigm can assist, develop, and improve a myriad of factors associated with policing cybercrime. 
+
+**Design/Methodology/Approach –** Three examples of prominent cybercrime incidents will be explored under the lens of institutional theory: the cyberextortion of Amanda Todd; the hacking of Ashley Madison; and the 2013 Target data breach. 
+
+**Findings –** EBP approaches to cybercrime can improve the effectiveness of existing and future approaches to cybercrime training, recruitment, as well as officers’ preparedness and awareness of cybercrime. 
+
+**Research Limitations/Implications –** Future research will benefit from determining what types of training work at the local, state/provincial, and federal level, as well as evaluating both current and new cybercrime policing programs and strategies. **Practical Implications –** EBP approaches to cybercrime have the potential to improve police responses to cybercrime calls for service, save police resources, improve police–public relations during calls for service, and improve police legitimacy. 
+
+**Originality/Value –** This paper links cybercrime policing to the paradigm of EBP, highlighting the need for evaluating and implementing effective evidence-based approaches to policing cybercrime.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,13 +72,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
