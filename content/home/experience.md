@@ -18,27 +18,56 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
+  title = "Research Analyst"
+  company = "Durham Regional Police Service"
+  company_url = "https://members.drps.ca/internet_explorer/index.asp"
+  location = "Whitby, Ontario"
+  date_start = "2018-05-01"
+  date_end = "2018-08-30"
+  description = """"""
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistant"
+  company = "University of Ontario Institute of Technology"
+  company_url = "https://socialscienceandhumanities.ontariotechu.ca/criminology-and-justice/index.php"
+  location = "Oshawa, Ontario"
+  date_start = "2018-01-01"
+  date_end = "2018-08-30"
+  description = """ *Navigating Employment Services in the Durham Region* 
+  * Dr. Tyler Frederick (PI)
+  """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "University of Ontario Institute of Technology"
+  company_url = "https://socialscienceandhumanities.ontariotechu.ca/criminology-and-justice/index.php"
+  location = "Oshawa, Ontario"
+  date_start = "2017-07-01"
+  date_end = "2018-08-30"
+  description = """*Moving to the Hateful Beat: YouTube White Power Music Videos* 
+  * Dr. Barbara Perry (PI)
+  """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "University of Ontario Institute of Technology"
+  company_url = "https://socialscienceandhumanities.ontariotechu.ca/criminology-and-justice/index.php"
+  location = "Oshawa, Ontario"
+  date_start = "2017-04-01"
+  date_end = "2018-08-30"
+  description = """*The Police Auxiliary Role and Function: A Volunteer Engagement Survey* 
+  * Dr. Christopher O'Connor (PI)
+  """
+  
+[[experience]]
+  title = "Transcriptionist"
+  company = "University of Ontario Institute of Technology"
+  company_url = "https://socialscienceandhumanities.ontariotechu.ca/criminology-and-justice/index.php"
+  location = "Oshawa, Ontario"
+  date_start = "2016-12-01"
+  date_end = "2016-12-30"
+  description = """*More Than Paper Terrorists? A Closer Look at Freemen-On-The-Land in Canada* 
+  * Dr. Barbara Perry (PI)
+  """
 
 +++
