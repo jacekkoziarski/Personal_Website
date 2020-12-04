@@ -3,7 +3,7 @@ title: "Police Interactions with People Perceived to have a Mental Health Proble
 authors:
 - Tyler Frederick
 - Christopher O'Connor
-- **admin**
+- admin
 author_notes:
 - ""
 - ""
