@@ -17,7 +17,43 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+ [[experience]]
+  title = "Independent Research Consultant"
+  company = "Various Canadian Police Services"
+  company_url = "https://www.jkoziarski.ca/"
+  location = "Canada"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """"""
+
 [[experience]]
+  title = "Research Associate"
+  company = "Canadian Society of Evidence-Based Policing"
+  company_url = "https://www.can-sebp.net/"
+  location = "London, Ontario"
+  date_start = "2017-12-01"
+  date_end = ""
+  description = """"""
+  
+[[experience]]
+  title = "Research Fellow"
+  company = "Saskatoon Police Service"
+  company_url = "https://saskatoonpolice.ca/"
+  location = "Saskatoon, Saskatchewan"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """"""
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "University of Western Ontario"
+  company_url = "https://sociology.uwo.ca/"
+  location = "London, Ontario"
+  date_start = "2019-05-01"
+  date_end = ""
+  description = """"""
+  
+ [[experience]]
   title = "Research Analyst"
   company = "Durham Regional Police Service"
   company_url = "https://members.drps.ca/internet_explorer/index.asp"
