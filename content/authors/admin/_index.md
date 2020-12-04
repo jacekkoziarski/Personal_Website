@@ -1,37 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jacek Koziarski
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Western Ontario
+  url: "https://sociology.uwo.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Crime Science
+- Evaluation
+- Mental Health
+- Policing
+- Spatial Criminology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Doctor of Philosophy, Sociology
+    institution: University of Western Ontario
+    year: 2022
+  - course: Master of Arts, Criminology
+    institution: University of Ontario Institute of Technology
+    year: 2018
+  - course: Bachelor of Arts, Criminology
+    institution: University of Ontario Institute of Technology
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,18 +45,22 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Jacek_Koziarski
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jacek-koziarski/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=ZKjB7nEAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1954-3991
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/KOZIARSKI CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a third-year PhD Student in the Sociology Department at the [**University of Western Ontario**](https://sociology.uwo.ca/), Managing Editor of [**Police Practice and Research**](https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=gppr20), a Research Associate for the [**Canadian Society of Evidence-Based Policing**](https://www.can-sebp.net/), a Research Fellow with the [**Saskatoon Police Service**](https://saskatoonpolice.ca/), and an Independent Research Consultant. My research centers on various aspects of policing, with a particular focus on police interactions with persons with perceived mental illness (PwPMI). Another line of inquiry for my work centers around examining the spatial and temporal patterns of both crime and non-crime-related issues (e.g., police-PwPMI interactions, missing persons, etc.). Some of my most recent research appears in *Policing: An International Journal*, *Police Practice and Research*, and *Policing: A Journal of Policy and Practice*.
