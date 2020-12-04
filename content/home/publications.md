@@ -68,6 +68,6 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Please [**get in touch**](mailto:jkoziars@uwo.ca) if you have trouble accessing any of my work!
+Please [**get in touch**](mailto:jkoziars@uwo.ca) if you have trouble accessing any of my work.
 {{% /callout %}}
 
