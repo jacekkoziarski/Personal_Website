@@ -1,13 +1,13 @@
 ---
-title: "Resistance to Evidence-Based Policing: Canadian Police Executives’ Perceptions as to Which Level of Canadian Policing is Most Resistant"
+title: "Connecting Evidence-Based Policing and Cybercrime"
 authors:
 - admin
-- Hina Kalyal
+- Jin Ree Lee
 author_notes:
 - ""
 - ""
 date: "2020-07-03T00:00:00Z"
-doi: "https://doi.org/10.1080/15614263.2020.1786690"
+doi: "https://doi.org/10.1108/PIJPSM-07-2019-0107"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +19,7 @@ doi: "https://doi.org/10.1080/15614263.2020.1786690"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Police Practice and Research*"
+publication: "*Policing: An International Journal, 43*(1), 198-211"
 publication_short: ""
 
 abstract: Despite the global growth of evidence-based policing (EBP), there remains a resistance to change within police organizations that ultimately impedes the adoption of evidence-based practices. As a means of identifying which level of policing is most resistant to EBP, the present study describes results from interviews with 38 sworn and civilian Canadian police executives on their perceptions as to which level of policing – leadership, middle management, or the frontline – is most resistant. The results indicate that although there was no consensus among our participants, the middle management level was perceived as most resistant to EBP for a wide array of reasons. Ultimately, the results have practical implications for police practice that surround the need for a greater adoption of change.
