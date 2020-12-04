@@ -1,16 +1,17 @@
 ---
-title: "An example journal article"
+title: "Policing Mental Health: The Composition and Perceived Challenges of Co-Response Teams and Crisis Intervention Teams in the Canadian Context"
 authors:
 - admin
-- Robert Ford
+- Christopher O'Connor
+- Tyler Frederick
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- ""
+- ""
+date: "2020-07-02T00:00:00Z"
+doi: "https://doi.org/10.1080/15614263.2020.1786689"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,22 +20,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Police Practice and Research*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Due to an increase in interactions between the police and persons with perceived mental illness (PwPMI), police services have begun deploying specialized crisis responses to more adequately address these calls. One such response is a Crisis Intervention Team (CIT) that is comprised of frontline officers who are specially trained on mental health; another is a Co-Response Team (CRT) where an officer is paired with a mental health practitioner. With police services presumably shifting scarce resources to deploy these responses, it is paramount to understand the challenges they may endure. With little Canadian research on these responses to-date, the purpose of this paper is to document which Canadian police services deploy these responses and how their composition varies by jurisdiction, as well as their perceived challenges. Through a mixed methodological approach, the results indicate that most of the participating services deploy varying compositions of a CIT and/or CRT, but are perceived to endure a variety of challenges which may impede the overall success of these responses. A call for future research is made which may assist Canadian police services in addressing some of the identified challenges.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,13 +65,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
