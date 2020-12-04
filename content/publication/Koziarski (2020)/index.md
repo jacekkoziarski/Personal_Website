@@ -5,7 +5,7 @@ authors:
 author_notes:
 - ""
 date: "2020-11-23T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1093/police/paaa093"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
