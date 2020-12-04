@@ -1,16 +1,15 @@
 ---
-title: "An example journal article"
+title: "Police Interactions with People Perceived to have a Mental Health Problem: A Critical Review of Frames, Terminology, and Definitions"
 authors:
-- admin
-- Robert Ford
+- Frederick, T., O'Connor, C., & Koziarski, J.
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- ""
+- ""
+date: "2018-11-20T00:00:00Z"
+doi: "https://doi.org/10.1080/15564886.2018.1512024"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,22 +18,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Victims and Offenders, 13*(8), 1037-1054"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In the last two decades, interest in the topic of how police interact with individuals perceived to have a mental health problem has increased substantially. This interest has produced a growing body of research on the topic and with it an expansion in the variety of terms and frames used in discussing the issue. The variation in terminology and topic framing is important to consider for a number of theoretical and methodological reasons, including our ability as researchers to shape the wider response to the issue and concerns about the extent to which the varied terms are valid and comparable. To explore this topic, we undertook a scoping review of 92 articles on the topic published between 2000 and 2017. The findings show that the current framing tends to emphasize issues related to the mental health system and police training to the detriment of other forces related to the issue such as housing, poverty, and stigma. The analy- sis also shows that person with mental illness is the most common terminology used in the literature, but its use raises some concerns about validity and precision.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,12 +64,12 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
