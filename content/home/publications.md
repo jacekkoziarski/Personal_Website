@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Please get in touch if you have trouble accessing any of my work!"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -66,3 +66,8 @@ subtitle = "Please get in touch if you have trouble accessing any of my work!"
  # CSS class.
  css_class = ""
 +++
+
+{{% callout note %}}
+Please [**get in touch**](#contact) if you have trouble accessing any of my work.
+{{% /callout %}}
+

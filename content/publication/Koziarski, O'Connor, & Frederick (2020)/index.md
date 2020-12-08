@@ -20,7 +20,7 @@ doi: "https://doi.org/10.1080/15614263.2020.1786689"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Police Practice and Research*"
+publication: "*Police Practice and Research*. Online First"
 publication_short: ""
 
 abstract: Due to an increase in interactions between the police and persons with perceived mental illness (PwPMI), police services have begun deploying specialized crisis responses to more adequately address these calls. One such response is a Crisis Intervention Team (CIT) that is comprised of frontline officers who are specially trained on mental health; another is a Co-Response Team (CRT) where an officer is paired with a mental health practitioner. With police services presumably shifting scarce resources to deploy these responses, it is paramount to understand the challenges they may endure. With little Canadian research on these responses to-date, the purpose of this paper is to document which Canadian police services deploy these responses and how their composition varies by jurisdiction, as well as their perceived challenges. Through a mixed methodological approach, the results indicate that most of the participating services deploy varying compositions of a CIT and/or CRT, but are perceived to endure a variety of challenges which may impede the overall success of these responses. A call for future research is made which may assist Canadian police services in addressing some of the identified challenges.
