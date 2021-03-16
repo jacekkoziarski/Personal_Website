@@ -1,13 +1,13 @@
 ---
-title: "Connecting Evidence-Based Policing and Cybercrime"
+title: "#Defund or #Re-Fund?: Re-Examining Bayley's Blueprint for Police Reform"
 authors:
 - admin
-- Jin Ree Lee
+- Laura Huey
 author_notes:
 - ""
 - ""
-date: "2020-03-02T00:00:00Z"
-doi: "https://doi.org/10.1108/PIJPSM-07-2019-0107"
+date: "2021-03-13T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -19,10 +19,10 @@ doi: "https://doi.org/10.1108/PIJPSM-07-2019-0107"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Policing: An International Journal, 43*(1), 198-211"
+publication: "*International Journal of Comparative and Applied Criminal Justice*"
 publication_short: ""
 
-abstract: "**Purpose –** This paper explores the various challenges associated with policing cybercrime, arguing that a failure to improve law enforcement responses to cybercrime may negatively impact their institutional legitimacy as reliable first responders. Further, the paper makes preliminary links between cybercrime and the paradigm of evidence-based policing (EBP), providing suggestions on how the paradigm can assist, develop, and improve a myriad of factors associated with policing cybercrime. **Design/Methodology/Approach –** Three examples of prominent cybercrime incidents will be explored under the lens of institutional theory: the cyberextortion of Amanda Todd; the hacking of Ashley Madison; and the 2013 Target data breach. **Findings –** EBP approaches to cybercrime can improve the effectiveness of existing and future approaches to cybercrime training, recruitment, as well as officers’ preparedness and awareness of cybercrime. **Research Limitations/Implications –** Future research will benefit from determining what types of training work at the local, state/provincial, and federal level, as well as evaluating both current and new cybercrime policing programs and strategies. **Practical Implications –** EBP approaches to cybercrime have the potential to improve police responses to cybercrime calls for service, save police resources, improve police–public relations during calls for service, and improve police legitimacy. **Originality/Value –** This paper links cybercrime policing to the paradigm of EBP, highlighting the need for evaluating and implementing effective evidence-based approaches to policing cybercrime."
+abstract: "In light of the defund the police movement, it is imperative we consider what police reform could and potentially should look like. Some, for example, have called for a reduced police footprint in marginalized communities through reallocating police funding toward preventative services for a myriad of social issues. However, drawing on Bayley’s (1994) Police for the Future, we show that a dilemma arises with respect to police involvement in these issues: the police cannot be solely relied upon to address all social issues, but they cannot be fully absolved of the responsibility either. As such, further drawing on Bayley’s (1994) thoughts for police reform, we instead argue for the adoption of evidence-based policing as a more fruitful driver of meaningful, long-term police reform as it not only enables the police to identify practices that are effective or even harmful, but it also can be used as means for police accountability."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
