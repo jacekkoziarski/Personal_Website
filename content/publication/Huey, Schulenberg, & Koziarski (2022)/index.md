@@ -1,12 +1,13 @@
 ---
-title: "#Defund or #Re-Fund?: Re-Examining Bayley's Blueprint for Police Reform"
+title: "Policing Mental Health: Public Safety and Crime Prevention in Canada"
 authors:
-- admin
 - Laura Huey
+- Jennifer Schulenberg
+- admin
 author_notes:
 - ""
 - ""
-date: "2021-03-13T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +17,13 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Comparative and Applied Criminal Justice*, Forthcoming"
+publication: "Under Contract at *Springer Briefs*"
 publication_short: ""
 
-abstract: "In light of the defund the police movement, it is imperative we consider what police reform could and potentially should look like. Some, for example, have called for a reduced police footprint in marginalized communities through reallocating police funding toward preventative services for a myriad of social issues. However, drawing on Bayley’s (1994) Police for the Future, we show that a dilemma arises with respect to police involvement in these issues: the police cannot be solely relied upon to address all social issues, but they cannot be fully absolved of the responsibility either. As such, further drawing on Bayley’s (1994) thoughts for police reform, we instead argue for the adoption of evidence-based policing as a more fruitful driver of meaningful, long-term police reform as it not only enables the police to identify practices that are effective or even harmful, but it also can be used as means for police accountability."
+# abstract: ""
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
