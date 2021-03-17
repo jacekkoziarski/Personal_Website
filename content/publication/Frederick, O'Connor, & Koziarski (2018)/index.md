@@ -1,9 +1,7 @@
 ---
 title: "Police Interactions with People Perceived to have a Mental Health Problem: A Critical Review of Frames, Terminology, and Definitions"
 authors:
-- Tyler Frederick
-- Christopher O'Connor
-- admin
+- Frederick, T., O'Connor, C., & Koziarski, J.
 author_notes:
 - ""
 - ""
