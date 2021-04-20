@@ -32,7 +32,7 @@ abstract: In recent years, police services have begun deploying more robust resp
 # links:
 # - name: ""
 #   url: ""
-url_pdf:
+url_pdf: "https://www.crimrxiv.com/pub/885ehamc/release/1?readingCollection=fb44d3fb"
 url_code: ''
 url_dataset: ''
 url_poster: ''
