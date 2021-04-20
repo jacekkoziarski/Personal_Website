@@ -34,7 +34,7 @@ abstract: "In light of the defund the police movement, it is imperative we consi
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: "https://www.crimrxiv.com/pub/foxvz33i/release/1?readingCollection=fb44d3fb" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
