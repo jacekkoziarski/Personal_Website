@@ -34,7 +34,7 @@ abstract: "**Purpose –** This paper explores the various challenges associated
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: "https://www.crimrxiv.com/pub/go7thxn6/release/1?readingCollection=fb44d3fb" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
