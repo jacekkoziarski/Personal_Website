@@ -35,7 +35,7 @@ abstract: Due to an increase in interactions between the police and persons with
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: "https://www.crimrxiv.com/pub/2woukar0/release/1?readingCollection=fb44d3fb" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
