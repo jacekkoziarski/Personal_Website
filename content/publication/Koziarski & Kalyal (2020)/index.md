@@ -34,7 +34,7 @@ abstract: Despite the global growth of evidence-based policing (EBP), there rema
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: "https://www.crimrxiv.com/pub/o2qnw6ec/release/1?readingCollection=fb44d3fb" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
