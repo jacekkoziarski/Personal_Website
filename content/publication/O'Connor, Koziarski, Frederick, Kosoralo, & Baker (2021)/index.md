@@ -4,7 +4,7 @@ authors:
 - Christopher O'Connor
 - admin
 - Tyler Frederick
-- Kalee-Anne Kosoralo
+- Kaylee-Anne Kosoralo
 - Victoria Baker
 author_notes:
 - ""
@@ -21,7 +21,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Police Science and Management,* Forthcoming."
+publication: "*International Journal of Police Science and Management,* Forthcoming"
 publication_short: ""
 
 abstract: Volunteers have always played a prominent role in policing. Although known by many names worldwide, auxiliary police in Canada are one particular group of formalized volunteers that have received little research attention. Therefore, through an exploratory survey utilizing both closed and open-ended questions, this article adds to the literature on volunteer police by focusing on how auxiliary members perceived their safety at a police service located in Canada. The findings show how auxiliary members’ perceptions of safety were intricately connected to their uniforms, received trainings, and associated accoutrements. More specifically we find that these key elements act as symbols connecting auxiliary members to the extended police family and when they are absent members can feel distanced. Further, safety concerns were expressed as a result of such distancing. The implications of these findings are discussed.
