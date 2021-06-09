@@ -1,14 +1,15 @@
 ---
-title: "Policing Mental Health: The Composition and Perceived Challenges of Co-Response Teams and Crisis Intervention Teams in the Canadian Context"
+title: "Presenting a Uniformed Self: Symbols of Safety in Police Auxiliary Members' Perceptions"
 authors:
-- admin
 - Christopher O'Connor
+- admin
 - Tyler Frederick
+- Kalee-Anne Kosoralo
+- Victoria Baker
 author_notes:
-- "OnlineFirst July 2020"
 - ""
-date: "2021-02-01T00:00:01Z"
-doi: "https://doi.org/10.1080/15614263.2020.1786689"
+date: "2021-06-01T00:00:01Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -20,10 +21,10 @@ doi: "https://doi.org/10.1080/15614263.2020.1786689"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Police Practice & Research, 22*(1), 977-995"
+publication: "*International Journal of Police Science and Management,* Forthcoming."
 publication_short: ""
 
-abstract: Due to an increase in interactions between the police and persons with perceived mental illness (PwPMI), police services have begun deploying specialized crisis responses to more adequately address these calls. One such response is a Crisis Intervention Team (CIT) that is comprised of frontline officers who are specially trained on mental health; another is a Co-Response Team (CRT) where an officer is paired with a mental health practitioner. With police services presumably shifting scarce resources to deploy these responses, it is paramount to understand the challenges they may endure. With little Canadian research on these responses to-date, the purpose of this paper is to document which Canadian police services deploy these responses and how their composition varies by jurisdiction, as well as their perceived challenges. Through a mixed methodological approach, the results indicate that most of the participating services deploy varying compositions of a CIT and/or CRT, but are perceived to endure a variety of challenges which may impede the overall success of these responses. A call for future research is made which may assist Canadian police services in addressing some of the identified challenges.
+abstract: Volunteers have always played a prominent role in policing. Although known by many names worldwide, auxiliary police in Canada are one particular group of formalized volunteers that have received little research attention. Therefore, through an exploratory survey utilizing both closed and open-ended questions, this article adds to the literature on volunteer police by focusing on how auxiliary members perceived their safety at a police service located in Canada. The findings show how auxiliary members’ perceptions of safety were intricately connected to their uniforms, received trainings, and associated accoutrements. More specifically we find that these key elements act as symbols connecting auxiliary members to the extended police family and when they are absent members can feel distanced. Further, safety concerns were expressed as a result of such distancing. The implications of these findings are discussed.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,7 +36,7 @@ abstract: Due to an increase in interactions between the police and persons with
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.crimrxiv.com/pub/2woukar0/release/1?readingCollection=fb44d3fb" 
+url_pdf: "" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
