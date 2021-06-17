@@ -1,14 +1,15 @@
 ---
-title: "Presenting a Uniformed Self: Symbols of Safety in Police Auxiliary Members' Perceptions"
+title: "Caught in the Currents: Evaluating the Evidence for Common Downstream Police Response Interventions in Calls Involving Persons with Mental Illness"
 authors:
-- Christopher O'Connor
+- Laura Huey
+- Judith Andersen
+- Craig Bennell
+- Mary Ann Campbell
 - admin
-- Tyler Frederick
-- Kaylee-Anne Kosoralo
-- Victoria Baker
+- Adam D. Vaughan
 author_notes:
 - ""
-date: "2021-06-01T00:00:01Z"
+date: "2021-06-16T00:00:01Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,10 +22,10 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Police Science and Management,* Forthcoming"
+publication: "*FACETS,* Forthcoming"
 publication_short: ""
 
-abstract: Volunteers have always played a prominent role in policing. Although known by many names worldwide, auxiliary police in Canada are one particular group of formalized volunteers that have received little research attention. Therefore, through an exploratory survey utilizing both closed and open-ended questions, this article adds to the literature on volunteer police by focusing on how auxiliary members perceived their safety at a police service located in Canada. The findings show how auxiliary members’ perceptions of safety were intricately connected to their uniforms, received trainings, and associated accoutrements. More specifically we find that these key elements act as symbols connecting auxiliary members to the extended police family and when they are absent members can feel distanced. Further, safety concerns were expressed as a result of such distancing. The implications of these findings are discussed.
+abstract: The origins of this report, and of the Mental Health and Policing Working Group, can be traced to the unique situation Canadians have faced as a result of the Covid-19 pandemic. The unique circumstances of this global outbreak, which have, for many Canadians, resulted in serious illness and death, intensified economic uncertainties, altered family and lifestyle dynamics, and generated or exacerbated feelings of loneliness and social dislocation, rightly led the Royal Society of Canada’s Covid-19 Taskforce to consider the strains and other negative impacts on individual, group and community mental health. With the central role that police too often play in the lives of individuals in mental and/or emotional crisis, we were tasked with exploring what can be reasonably said about the state of our current knowledge of police responses to Persons with Mental Illness (PMI).
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
