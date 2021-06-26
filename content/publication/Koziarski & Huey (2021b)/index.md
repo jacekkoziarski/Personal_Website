@@ -1,13 +1,13 @@
 ---
-title: "#Defund or #Re-Fund?: Re-Examining Bayley's Blueprint for Police Reform"
+title: "Tidying Up A Few Misconceptions Around Evidence-Based Policing: Reply to Staller and Koerner (2021)"
 authors:
 - admin
 - Laura Huey
 author_notes:
 - ""
 - ""
-date: "2021-03-28T00:00:00Z"
-doi: "https://doi.org/10.1080/01924036.2021.1907604"
+date: "2021-06-26T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -19,10 +19,10 @@ doi: "https://doi.org/10.1080/01924036.2021.1907604"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Comparative and Applied Criminal Justice*"
+publication: "*International Journal of Comparative and Applied Criminal Justice*, Forthcoming"
 publication_short: ""
 
-abstract: "In light of the defund the police movement, it is imperative we consider what police reform could and potentially should look like. Some, for example, have called for a reduced police footprint in marginalized communities through reallocating police funding toward preventative services for a myriad of social issues. However, drawing on Bayley’s (1994) Police for the Future, we show that a dilemma arises with respect to police involvement in these issues: the police cannot be solely relied upon to address all social issues, but they cannot be fully absolved of the responsibility either. As such, further drawing on Bayley’s (1994) thoughts for police reform, we instead argue for the adoption of evidence-based policing as a more fruitful driver of meaningful, long-term police reform as it not only enables the police to identify practices that are effective or even harmful, but it also can be used as means for police accountability."
+abstract: "In this piece we reply to a commentary from Staller and Koerner (2021) on our work entitled, #Defund or #Re-Fund? Re-Examining Bayley’s Blueprint for Police Reform. In short, we agree on the necessity of reflexivity within policing research and the area of evidence-based policing more specifically, but also see this reply as an opportunity to clarify some misconceptions around evidence-based policing and what it means to be ‘evidence-based’. More specifically, we touch upon the flexibility of evidence-based policing to be implemented in tandem with other reform approaches, the value of experiential knowledge and qualitative methods within evidence-based policing, and the confounding of evidence and evidence-based. We conclude on the point of reflexivity and put out a call for follow-up studies that examine the implications of evaluated police practices."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +34,7 @@ abstract: "In light of the defund the police movement, it is imperative we consi
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.crimrxiv.com/pub/foxvz33i/release/1?readingCollection=fb44d3fb" 
+url_pdf: "" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
