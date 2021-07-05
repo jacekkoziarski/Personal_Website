@@ -6,8 +6,8 @@ authors:
 author_notes:
 - ""
 - ""
-date: "2021-06-26T00:00:00Z"
-doi: ""
+date: "2021-06-30T00:00:00Z"
+doi: "https://doi.org/10.1080/01924036.2021.1949620"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Comparative and Applied Criminal Justice*, Forthcoming"
+publication: "*International Journal of Comparative and Applied Criminal Justice*, OnlineFirst"
 publication_short: ""
 
 abstract: "In this piece we reply to a commentary from Staller and Koerner (2021) on our work entitled, #Defund or #Re-Fund? Re-Examining Bayley’s Blueprint for Police Reform. In short, we agree on the necessity of reflexivity within policing research and the area of evidence-based policing more specifically, but also see this reply as an opportunity to clarify some misconceptions around evidence-based policing and what it means to be ‘evidence-based’. More specifically, we touch upon the flexibility of evidence-based policing to be implemented in tandem with other reform approaches, the value of experiential knowledge and qualitative methods within evidence-based policing, and the confounding of evidence and evidence-based. We conclude on the point of reflexivity and put out a call for follow-up studies that examine the implications of evaluated police practices."
