@@ -17,7 +17,7 @@ doi: "https://doi.org/10.1093/police/paaa093"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Policing: A Journal of Policy and Practice*. Online First"
+publication: "*Policing: A Journal of Policy and Practice*. OnlineFirst"
 publication_short: ""
 
 abstract: In recent years, police services have begun deploying more robust responses to calls for service involving persons with perceived mental illness (PwPMI), but at times do so in a limited capacity because of various challenges. Drawing from established evidence-based policing practices, a more efficient use of these responses may be to proactively deploy them instead, focusing their efforts on hot spots of PwPMI calls. Unfortunately, little is known about PwPMI call concentrations. Therefore, the current study seeks to contribute to the literature by not only examining the concentration of these calls within a small city, but also by introducing new methods and a new measure of concentration to the literature. Drawing on six years of calls for service data, the results reveal that a high proportion of PwPMI calls are concentrated in few spatial units – more so than in larger jurisdictions. Further analyses also reveal dispersion of these concentrations.
