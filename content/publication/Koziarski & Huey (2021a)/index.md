@@ -19,7 +19,7 @@ doi: "https://doi.org/10.1080/01924036.2021.1907604"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Comparative and Applied Criminal Justice*"
+publication: "*International Journal of Comparative and Applied Criminal Justice*, OnlineFirst"
 publication_short: ""
 
 abstract: "In light of the defund the police movement, it is imperative we consider what police reform could and potentially should look like. Some, for example, have called for a reduced police footprint in marginalized communities through reallocating police funding toward preventative services for a myriad of social issues. However, drawing on Bayley’s (1994) Police for the Future, we show that a dilemma arises with respect to police involvement in these issues: the police cannot be solely relied upon to address all social issues, but they cannot be fully absolved of the responsibility either. As such, further drawing on Bayley’s (1994) thoughts for police reform, we instead argue for the adoption of evidence-based policing as a more fruitful driver of meaningful, long-term police reform as it not only enables the police to identify practices that are effective or even harmful, but it also can be used as means for police accountability."
