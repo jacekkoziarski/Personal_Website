@@ -34,7 +34,7 @@ abstract: "In this piece we reply to a commentary from Staller and Koerner (2021
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "" 
+url_pdf: "https://www.crimrxiv.com/pub/tpvk5wfo" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
