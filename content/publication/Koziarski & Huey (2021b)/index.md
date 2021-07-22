@@ -1,5 +1,5 @@
 ---
-title: "Tidying Up A Few Misconceptions Around Evidence-Based Policing: Reply to Staller and Koerner (2021)"
+title: "Tidying Up a Few Misconceptions Around Evidence-Based Policing: Reply to Staller and Koerner (2021)"
 authors:
 - admin
 - Laura Huey
