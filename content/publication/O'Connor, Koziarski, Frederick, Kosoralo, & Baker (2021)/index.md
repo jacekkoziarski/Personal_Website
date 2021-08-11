@@ -9,7 +9,7 @@ authors:
 author_notes:
 - ""
 date: "2021-08-11T00:00:01Z"
-doi: "https://journals.sagepub.com/doi/full/10.1177/14613557211032614"
+doi: "https://doi.org/10.1177%2F14613557211032614"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
