@@ -9,7 +9,7 @@ authors:
 - Adam D. Vaughan
 author_notes:
 - ""
-date: "2021-08-11T00:00:01Z"
+date: "2021-08-21T00:00:01Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*FACETS,* Forthcoming"
+publication: "*FACETS,* OnlineFirst"
 publication_short: ""
 
 abstract: The origins of this report, and of the Mental Health and Policing Working Group, can be traced to the unique situation Canadians have faced as a result of the Covid-19 pandemic. The unique circumstances of this global outbreak, which have, for many Canadians, resulted in serious illness and death, intensified economic uncertainties, altered family and lifestyle dynamics, and generated or exacerbated feelings of loneliness and social dislocation, rightly led the Royal Society of Canada’s Covid-19 Taskforce to consider the strains and other negative impacts on individual, group and community mental health. With the central role that police too often play in the lives of individuals in mental and/or emotional crisis, we were tasked with exploring what can be reasonably said about the state of our current knowledge of police responses to Persons with Mental Illness (PMI).
