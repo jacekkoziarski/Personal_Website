@@ -34,7 +34,7 @@ abstract: In the last two decades, interest in the topic of how police interact 
 
 # links:
   - name: Open Access PDF
-     url: 'https://www.crimrxiv.com/pub/sha0q9nn/release/1?readingCollection=fb44d3fb'
+     url: https://www.crimrxiv.com/pub/sha0q9nn/release/1?readingCollection=fb44d3fb
 url_pdf: ''
 url_code: ''
 url_dataset: ''
