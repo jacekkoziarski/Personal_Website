@@ -4,7 +4,7 @@ authors:
 - admin
 author_notes:
 - ""
-date: "2021-09-23T00:00:00Z"
+date: "2021-10-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Crime Science*, Forthcoming"
+publication: "*Crime Science, 10*(22), 1-7"
 publication_short: ""
 
 abstract: Drawing upon seven years of police calls for service data (2014-2020), this study examined the effect of the COVID-19 pandemic on calls involving persons with perceived mental illness (PwPMI) using a Bayesian Structural Time Series. The findings revealed that PwPMI calls did not increase immediately after the beginning of the pandemic in March 2020. Instead, a sustained increase in PwPMI calls was identified in August 2020 that later became statistically significant in October 2020. Ultimately, the analysis revealed a 22% increase in PwPMI calls during the COVID-19 pandemic than would have been expected had the pandemic not taken place. The delayed effect of the pandemic on such calls points to a need for policymakers to prioritize widely accessible mental health care that can be deployed early during public health emergencies thus potentially mitigating or eliminating the need for increased police intervention, as was the case here.
