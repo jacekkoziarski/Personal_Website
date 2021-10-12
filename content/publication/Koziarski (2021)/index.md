@@ -5,7 +5,7 @@ authors:
 author_notes:
 - ""
 date: "2021-10-12T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1186/s40163-021-00157-6"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -32,7 +32,7 @@ abstract: Drawing upon seven years of police calls for service data (2014-2020),
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: "https://crimesciencejournal.biomedcentral.com/track/pdf/10.1186/s40163-021-00157-6.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
