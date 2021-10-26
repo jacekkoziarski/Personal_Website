@@ -1,15 +1,15 @@
 ---
-title: "Presenting a Uniformed Self: Symbols of Safety in Police Auxiliary Members' Perceptions"
+title: "Auxiliary Police Volunteer Experiences and Motivations to Volunteer"
 authors:
 - Christopher O'Connor
-- admin
 - Tyler Frederick
-- Kaylee-Anne Kosoralo
+- admin
 - Victoria Baker
+- Kaylee-Anne Kosoralo
 author_notes:
 - ""
-date: "2021-08-11T00:00:01Z"
-doi: "https://doi.org/10.1177%2F14613557211032614"
+date: "2021-10-21T00:00:01Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +21,10 @@ doi: "https://doi.org/10.1177%2F14613557211032614"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Police Science and Management,* OnlineFirst"
+publication: "*Policing: A Journal of Policy and Practice,* Forthcoming"
 publication_short: ""
 
-abstract: Volunteers have always played a prominent role in policing. Although known by many names worldwide, auxiliary police in Canada are one particular group of formalized volunteers that have received little research attention. Therefore, through an exploratory survey utilizing both closed and open-ended questions, this article adds to the literature on volunteer police by focusing on how auxiliary members perceived their safety at a police service located in Canada. The findings show how auxiliary members’ perceptions of safety were intricately connected to their uniforms, received trainings, and associated accoutrements. More specifically we find that these key elements act as symbols connecting auxiliary members to the extended police family and when they are absent members can feel distanced. Further, safety concerns were expressed as a result of such distancing. The implications of these findings are discussed.
+abstract: Policing has become a shared endeavour amongst a variety of community stakeholders. Citizens are expected to take on a more active role in securing their own safety. Volunteers are one particular group that has been marshalled to become an essential part of policing. In Canada, volunteers work alongside police officers as auxiliary members and assist in a wide range of activities, such as victim support, safety campaigns, community events, and patrol. Despite auxiliary members actively participating in policing duties, we know little about their experiences or motivations for volunteering. This article presents the results of a survey conducted with auxiliary police personnel at a police service in Canada and discusses their roles and tasks, perceived quality of and ways to improve their experiences, and motivations to volunteer. We conclude by discussing how police services could enhance auxiliary members’ experiences and better integrate this group into regular police officer recruitment efforts.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,7 +36,7 @@ abstract: Volunteers have always played a prominent role in policing. Although k
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://journals.sagepub.com/doi/full/10.1177/14613557211032614" 
+url_pdf: "" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
