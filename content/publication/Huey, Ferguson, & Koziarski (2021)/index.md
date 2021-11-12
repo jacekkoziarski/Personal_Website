@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*Policing & Society,* Forthcoming"
 publication_short: ""
 
-abstract: 
+abstract: This paper
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
