@@ -1,12 +1,14 @@
 ---
-title: "The Irrationalities of Rationality in Police Data Processes"
+title: "Auxiliary Police Volunteer Experiences and Motivations to Volunteer"
 authors:
-- Laura Huey
-- Lorna Ferguson
+- Christopher O'Connor
+- Tyler Frederick
 - admin
+- Victoria Baker
+- Kaylee-Anne Kosoralo
 author_notes:
 - ""
-date: "2021-11-12T00:00:01Z"
+date: "2021-10-21T00:00:01Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +21,10 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Policing & Society,* Forthcoming"
+publication: "*Policing: A Journal of Policy and Practice,* Forthcoming"
 publication_short: ""
 
-abstract: This paper explores how police bureaucracies, in their pursuit of greater accountability and management efficiencies, create what are intended to be rational data collection and use processes. However, these processes often produce unintended consequences: namely, behaviours, practices, and policies that confound an organization’s goals. Drawing on Ritzer’s McDonaldization thesis and qualitative data from two Canadian police organizations, we argue that although police bureaucracies focus on maintaining efficiency, calculability, predictability, and control when it comes to their data processes, not only do inaccuracies occur, but they happen because an over-emphasis on rational processes can produce forms of irrationality.
+abstract: Policing has become a shared endeavour amongst a variety of community stakeholders. Citizens are expected to take on a more active role in securing their own safety. Volunteers are one particular group that has been marshalled to become an essential part of policing. In Canada, volunteers work alongside police officers as auxiliary members and assist in a wide range of activities, such as victim support, safety campaigns, community events, and patrol. Despite auxiliary members actively participating in policing duties, we know little about their experiences or motivations for volunteering. This article presents the results of a survey conducted with auxiliary police personnel at a police service in Canada and discusses their roles and tasks, perceived quality of and ways to improve their experiences, and motivations to volunteer. We conclude by discussing how police services could enhance auxiliary members’ experiences and better integrate this group into regular police officer recruitment efforts.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
