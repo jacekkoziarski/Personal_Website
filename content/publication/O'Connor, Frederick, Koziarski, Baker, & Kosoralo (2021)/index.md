@@ -8,8 +8,8 @@ authors:
 - Kaylee-Anne Kosoralo
 author_notes:
 - ""
-date: "2021-10-21T00:00:01Z"
-doi: ""
+date: "2021-11-13T00:00:01Z"
+doi: "https://doi.org/10.1093/police/paab071"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -21,7 +21,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Policing: A Journal of Policy and Practice,* Forthcoming"
+publication: "*Policing: A Journal of Policy and Practice,* OnlineFirst"
 publication_short: ""
 
 abstract: Policing has become a shared endeavour amongst a variety of community stakeholders. Citizens are expected to take on a more active role in securing their own safety. Volunteers are one particular group that has been marshalled to become an essential part of policing. In Canada, volunteers work alongside police officers as auxiliary members and assist in a wide range of activities, such as victim support, safety campaigns, community events, and patrol. Despite auxiliary members actively participating in policing duties, we know little about their experiences or motivations for volunteering. This article presents the results of a survey conducted with auxiliary police personnel at a police service in Canada and discusses their roles and tasks, perceived quality of and ways to improve their experiences, and motivations to volunteer. We conclude by discussing how police services could enhance auxiliary members’ experiences and better integrate this group into regular police officer recruitment efforts.
