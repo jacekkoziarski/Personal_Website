@@ -36,7 +36,7 @@ abstract: Policing has become a shared endeavour amongst a variety of community 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "" 
+url_pdf: "https://www.crimrxiv.com/pub/h5zwjszi/release/1" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
