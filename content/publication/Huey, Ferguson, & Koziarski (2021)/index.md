@@ -6,8 +6,8 @@ authors:
 - admin
 author_notes:
 - ""
-date: "2021-11-14T00:00:01Z"
-doi: ""
+date: "2021-11-22T00:00:01Z"
+doi: "https://doi.org/10.1080/10439463.2021.2007245"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Policing & Society,* Forthcoming"
+publication: "*Policing & Society,* OnlineFirst"
 publication_short: ""
 
 abstract: "This paper explores how police bureaucracies, in their pursuit of greater accountability and management efficiencies, create what are intended to be rational data collection and use processes. However, these processes often produce unintended consequences: namely, behaviours, practices, and policies that confound an organization’s goals. Drawing on Ritzer’s *McDonaldization* thesis and qualitative data from two Canadian police organizations, we argue that although police bureaucracies focus on maintaining efficiency, calculability, predictability, and control when it comes to their data processes, not only do inaccuracies occur, but they happen because an over-emphasis on rational processes can produce forms of irrationality."
@@ -34,7 +34,7 @@ abstract: "This paper explores how police bureaucracies, in their pursuit of gre
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "" 
+url_pdf: "https://www.crimrxiv.com/pub/8nvomqju/release/1" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
