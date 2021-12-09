@@ -5,8 +5,8 @@ authors:
 - admin
 author_notes:
 - ""
-date: "2021-11-23T00:00:01Z"
-doi: ""
+date: "2021-12-07T00:00:01Z"
+doi: "https://doi.org/10.1108/PIJPSM-08-2021-0121"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Policing: An International Journal,* Forthcoming"
+publication: "*Policing: An International Journal,* OnlineFirst"
 publication_short: ""
 
 abstract: "Missing person cases are a global issue impacting policing. Among these, those who abscond from hospitals are especially concerning because these reports require collaboration across services, often strain already limited police and hospital resources, and present an elevated level of possible harm due to the high prevalence of mental illness, disability, and/or addiction. Despite this, to date, there has been a lack of scholarly attention on this phenomenon from a policing perspective. The present study aims to fill this gap by exploring how far missing hospital patients travel and where they are commonly found. Using a sample of 731 closed case files (2014-2018) from one police service, we identify spatial behaviour patterns specific to this group of missing persons. Results suggest that most do not leave the hospital grounds or stay within a 5-kilometer radius. Others were found close to the hospital and within city limits and returned of their own volition. By identifying these spatial behaviour patterns associated with missing hospital patients, police can refine probable search areas, allocate resources more efficiently, find the missing faster, and develop better-informed responses and policies."
