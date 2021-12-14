@@ -33,7 +33,7 @@ abstract: "Missing person cases are a global issue impacting policing. Among the
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "" 
+url_pdf: "https://www.crimrxiv.com/pub/vmx7dzuw/release/1" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
