@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
  [[experience]]
   title = "Independent Research Consultant"
-  company = "Various Canadian Police Services"
+  company = "Barrie Police Service"
   company_url = "https://www.jkoziarski.ca/"
-  location = "Canada"
+  location = "Barrie, Ontario"
   date_start = "2020-07-01"
-  date_end = ""
+  date_end = "2021-06-30"
   description = """"""
 
 [[experience]]
@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   company = "University of Western Ontario"
   company_url = "https://sociology.uwo.ca/"
   location = "London, Ontario"
-  date_start = "2019-05-01"
-  date_end = ""
+  date_start = "2018-09-01"
+  date_end = "2020-08-30"
   description = """"""
   
  [[experience]]
