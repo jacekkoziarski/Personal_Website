@@ -6,8 +6,8 @@ authors:
 - Laura Huey
 author_notes:
 - ""
-date: "2022-01-18T00:00:01Z"
-doi: ""
+date: "2022-02-11T00:00:01Z"
+doi: "https://doi.org/10.1093/police/paac006"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Policing: A Journal of Policy and Practice,* Forthcoming"
+publication: "*Policing: A Journal of Policy and Practice,* OnlineFirst"
 publication_short: ""
 
 abstract: "Recent discussions around police reform have acquired a significant degree of traction. Within these discussions have been calls to remove the police as primary responders to calls involving persons with perceived mental illness (PwPMI). While previous research shows that ~1% of all calls for service involve PwPMI, limitations around police data recording practices likely mask the true proportion of PwPMI within and across calls for service. Accordingly, following manual review and text search of qualitative data appended to all calls for service made to a Canadian police service in 2019, we sought to: (1) identify the true proportion of calls for police service that involve PwPMI; and (2) predict the extent to which PwPMI are involved within and across different call classifications. Our findings reveal that while the ‘Mental Health’ call classification only comprised 0.9% (n = 397) of calls for service, PwPMI were in fact involved in 10.8% (n = 4,646) of calls. Further, logistic regression models reveal that PwPMI are more likely to be involved in certain call classifications relative to others. Implications for police practice and reform are discussed."
