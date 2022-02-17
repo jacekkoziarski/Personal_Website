@@ -34,7 +34,7 @@ abstract: "Recent discussions around police reform have acquired a significant d
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "" 
+url_pdf: "https://www.crimrxiv.com/pub/hjptdyks/release/1" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
